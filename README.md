@@ -7,6 +7,9 @@ A launch configuration is a description of how to launch
 - external programs,
 - commands supported by plugins.
 
+## Supported Eclipse plugins ##
+The M2E configurations act on the build lifecycle of Maven.
+
 ## Import Launch Congigurations ##
 
 To import theses launch configurations into Eclipse : 
