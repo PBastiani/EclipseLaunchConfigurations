@@ -8,14 +8,15 @@ A launch configuration is a description of how to launch
 - commands supported by plugins.
 
 ## Supported Eclipse plugins ##
-The M2E configurations act on the build lifecycle of Maven.
 
-## Import Launch Congigurations ##
+[M2E](https://github.com/PBastiani/EclipseLaunchConfigurations/tree/master/m2e) : The M2E configurations act on the build lifecycle of Maven.
+
+## Importing Launch Configurations ##
 
 To import theses launch configurations into Eclipse : 
 
-1. Select **Import...** from the File menu.
-* In the **Import dialog box**, expand the Run/Debug group and select **Launch Configurations**.
+1. Select **Import...** from the **File menu**.
+* In the **Import dialog box**, expand the **Run/Debug** group and select **Launch Configurations**.
 * Click on **Next** button.
 * Click on **Browse...** button to select the location of launch files.
 * Select the folder containing the launch files and then click **OK**.
