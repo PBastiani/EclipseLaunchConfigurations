@@ -1,17 +1,15 @@
 Eclipse Launch Configurations
 =============================
 
-This repository contains a set of Eclipse Launch Configurations :
+This repository holds a collection of Eclipse Launch Configurations :
 
-[M2E](https://github.com/PBastiani/EclipseLaunchConfigurations/tree/master/m2e)  : a set of M2E configurations.
-
-[EGIT](https://github.com/PBastiani/EclipseLaunchConfigurations/tree/master/misc) : some Egit extensions..
-
-[MISC](https://github.com/PBastiani/EclipseLaunchConfigurations/tree/master/misc) : a set of Windows specific launchers.
+- a set of M2E configurations (see m2e/launchers-readme.md for more details).
+- some Egit extensions (see egit/launchers-readme.md for more details).
+- a set of Windows specific launchers (see misc/launchers-readme.md for more details).
 
 ## Importing Launch Configurations ##
 
-To import theses launch configurations into Eclipse : 
+To import these launch configurations into Eclipse : 
 
 1. Select **Import...** from the **File menu**.
 * In the **Import dialog box**, expand the **Run/Debug** group and select **Launch Configurations**.

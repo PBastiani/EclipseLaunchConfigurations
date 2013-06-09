@@ -3,11 +3,11 @@ MISC Launchers
 
 This folder contains a set of Windows specific launchers.
 
-**Windows Explorer**
+## Windows Explorer ##
 
 Start the Windows Explorer on the selected resource.
 
-**Windows Bash**
+## Windows Bash ##
 
 Start a Unix-type command-line shell.
 
@@ -22,4 +22,8 @@ This definition should reference the bash executable:
 - Click on **Browse...** button; then, select a bash executable.
 - Click **OK** to close the dialog box and save your changes.
 
-Note: these launchers use the CMD command. To improve productivity, the use of [Console2](http://sourceforge.net/projects/console/files/) may be considered !
+After installation, the launchers should appear in the **Eclipse ToolBar**.
+
+Note : these launchers use the CMD command. To improve the use of Bash, [Console2](http://sourceforge.net/projects/console/files/) may be considered a good alternative to the Windows console!
+
+Note : The [EasyShell](http://marketplace.eclipse.org/content/easyshell) plugin could be an another alternative to open a shell window or a file manager from Eclipse.
